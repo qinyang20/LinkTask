@@ -1,5 +1,6 @@
 package pnlclass_teacher.pnlyy.com.linktask;
 
+import android.com.linktasklib.LinkTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -9,7 +10,6 @@ import android.widget.Button;
 import java.util.ArrayList;
 import java.util.List;
 
-import pnlclass_teacher.pnlyy.com.linktask.linktask.LinkTask;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
