@@ -3,7 +3,7 @@
 
 LinkTask 主要解决迷之缩进，将一连串的任务串在一起，做完一个任务再开始下一个任务，让一整套逻辑更为清晰。
 
-**LinkTask库地址**：https://github.com/qinyang20/LinkTaskLib
+**LinkTask库源码地址**：https://github.com/qinyang20/LinkTaskLib
 
 ## 前言 
 目前只是极简的版本，功能单一，但相对的就容易使用。可以拿去自行做扩展。  
