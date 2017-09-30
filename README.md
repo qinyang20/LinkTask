@@ -30,7 +30,7 @@ allprojects {
 Step 2. 在app的build.gradle里添加
 ```gradle
 dependencies {
-    compile 'com.github.qinyang20:LinkTask:v1.0'
+    compile 'com.github.qinyang20:LinkTaskLib:v1.0'
 }
 ```
 
